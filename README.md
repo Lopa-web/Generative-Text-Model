@@ -10,7 +10,7 @@
 
 "DURATION":8 WEEKS
 
-"MENTOR":NEELA_SANTHU
+"MENTOR":NEELA SANTOSH
 
 "DESCRIPTION":This project involves creating a text generation model using either GPT (a transformer-based model) or LSTM (a recurrent neural network). The goal is to generate coherent paragraphs on specific topics based on user input.This project will develop a text generation system using either a GPT-based model (such as OpenAI’s GPT-2/3, or fine-tuned GPT) or a LSTM-based model (trained on a dataset of relevant text). The system will allow users to enter prompts, and the model will generate relevant, structured, and readable paragraphs.
 Deliverable:A Jupyter Notebook that loads and preprocesses data (if using LSTM, includes training steps).
